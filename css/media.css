@@ -1,0 +1,77 @@
+@media (max-width: 1199px) {
+
+}
+@media (max-width: 991px) {
+	.catagories-section h1 {
+    font-size: 40px;
+}
+}
+@media (max-width: 767px) {
+	.navbar {
+    margin-top: 0px;
+}
+.navbar-brand img {
+    width: 130px;
+    
+}
+.feature-product ul {
+    margin: 20px 0;
+}
+.carousel-item {
+	text-align: center;
+}
+.carousel-item h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+.carousel-item p {
+    font-size: 18px;
+}
+.carousel-item img {
+    max-width: 300px;
+    margin: 30px 0 40px 0;
+}
+.btn-dark {
+    font-size: 16px;
+}
+.product {
+	margin-top: 30px;
+}
+.product h1 {
+    font-size: 22px;
+}
+.product h2 {
+    font-size: 25px;
+}
+.feature-product {
+    padding: 35px 0 0 0;
+}
+.feature-product ul li h1 {
+    font-size: 30px;
+}
+.product p {
+    font-size: 16px;
+}
+.feature-product ul li a {
+    font-size: 18px;
+}
+.catagories-section h1 {
+    font-size: 35px;
+}
+.catagories-section a h3 {
+    font-size: 22px;
+}
+.last-img {
+    max-width: 400px;
+    box-shadow: 0 0px 30px rgb(0 0 0 / 8%);
+    border-radius: 10px;
+}
+.catagories-section span {
+    height: 12px;
+}
+
+}
+@media (max-width: 575px) {
+
+	
+}
